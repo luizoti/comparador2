@@ -1,0 +1,1 @@
+=IF($ORM.B3=$SQL.B3;"OK";"ERRADO")
